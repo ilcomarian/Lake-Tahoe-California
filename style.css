@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    color: #09798C;
+    background:rgb(241, 243, 244) ;
+}
+.f{
+  background-image: url(https://tahoesouth.com/wp-content/uploads/2014/12/shutterstock_fishing_zephyrcove-1.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.title{
+  font-style: italic;
+  font-size:34px;
+  letter-spacing: .8px;
+   text-transform: uppercase;
+  padding-top: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.span{
+  display: flex;
+  align-items: center;
+}
+.lake{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(227, 247, 241);
+  line-height: .5;
+  font-size: 65px;
+  text-shadow: 0 10px 15px #000;
+}
+.intro{
+  padding: 50px;
+  letter-spacing:-1px;
+  line-height: 25px;
+  margin-top: 0px;
+}
+a:hover{
+  color: grey;
+}
+a{
+  color: lightgreen;
+  text-decoration: none;
+  }
+.link{
+  font-style: 25px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+.wild{
+  background: url(https://www.visitrenotahoe.com/wp-content/uploads/2014/07/stand-up-pddle.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+  
+  
+  
+}
+p{
+  font-style: italic;
+  font-size: 22px;
+   
+}
+.q{text-shadow: 0 10px 15px #000;
+  font-size:50px;
+    
+  
+     
+}
+.wild1{  
+  background-image: url(http://www.traveldestinationsearch.com/wp-content/uploads/2017/05/VCW_D_MammothLakes_Hero_Horseback_1280x642_0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+  
+}
+ 
+ 
+.wild2{
+  background-image: url(http://www.trbimg.com/img-57eb1879/turbine/la-tr-hawaii-maui-helicopter-tour-20160927-snap);
+   background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+}
+.wild3{
+  background-image: url(http://www.tahoewaketubing.com/wp-content/uploads/2015/03/DSCF1056.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+}
+.wild4{
+  background-image: url(https://images.singletracks.com/blog/wp-content/uploads/2017/07/ArmstrongConnector_TAMBA.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+}
+.wild5{
+  background-image: url(https://robinpenning.files.wordpress.com/2013/04/montrail4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+}
+.wild6{
+  background-image: url(https://blackandgold.apr.com/wp-content/uploads/2013/12/Hot-Tub.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18% 24%;
+  color: white;
+  background-attachment: fixed;
+}
+ 
